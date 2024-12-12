@@ -59,3 +59,14 @@ Run the script from the command line with the following arguments:
 
 ```bash
 python network_scanner.py -r 192.168.1.0/24 -p 22 80 443 -o results.json
+
+```
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
+
+## Author
+
+
+[Ayush Gangwar](https://github.com/Arya182-ui)
